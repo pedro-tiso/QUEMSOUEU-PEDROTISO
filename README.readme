@@ -1,0 +1,20 @@
+# Site Pessoal - Pedro Tiso
+
+Projeto desenvolvido para a disciplina de Desenvolvimento Web 1 do curso de Bacharelado em Sistemas de Informação do IFSP - Campus Votuporanga.
+
+O site tem como objetivo aplicar conceitos básicos de HTML por meio da construção de um site pessoal composto por cinco páginas interligadas.
+
+## Páginas
+
+* Sobre mim
+* Minha cidade
+* Um sonho
+* Alguém que me inspira
+* 5 cidades que já visitei
+
+O projeto utiliza HTML semântico, links internos e externos, âncoras, imagens, mapa incorporado e elementos de formatação de texto.
+
+## Autor
+
+Pedro Tiso
+Bacharelado em Sistemas de Informação - IFSP
