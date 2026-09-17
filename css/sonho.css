@@ -1,0 +1,18 @@
+.texto-sonho {
+    background-color: #ffffff;
+    border-left: 6px solid #d6a756;
+}
+
+.galeria-sonho {
+    text-align: center;
+    background-color: rgba(214, 167, 86, 0.14);
+    padding: 25px;
+}
+
+.galeria-sonho figure {
+    margin: 25px auto;
+}
+
+.galeria-sonho img {
+    width: 250px;
+}

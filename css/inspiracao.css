@@ -1,0 +1,23 @@
+.pessoa-inspiradora {
+    background-color: #ffffff;
+    border-left: 6px solid #d6a756;
+}
+
+blockquote {
+    background-color: rgba(22, 50, 79, 0.07);
+    border-left: 5px solid #16324f;
+    margin: 20px 0;
+    padding: 15px 20px;
+}
+
+blockquote p {
+    font-style: italic;
+}
+
+cite a {
+    font-size: 14px;
+}
+
+.links-inspiracao {
+    background-color: rgba(214, 167, 86, 0.14);
+}

@@ -1,0 +1,22 @@
+.apresentacao {
+    background-color: #ffffff;
+    border-left: 6px solid #d6a756;
+}
+
+.apresentacao figure {
+    text-align: center;
+}
+
+.conhecendo {
+    background-color: rgba(214, 167, 86, 0.16);
+    border: 1px solid #d6a756;
+}
+
+.redes {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.redes a {
+    margin: 0 10px;
+}

@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    background-color: #f4f1ea;
+    color: #263238;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #16324f;
+    color: #ffffff;
+    padding: 25px;
+    text-align: center;
+}
+
+#inicio {
+    border-bottom: 5px solid #d6a756;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    color: #f4f1ea;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 7px 10px;
+}
+
+nav a:hover {
+    background-color: #d6a756;
+    color: #16324f;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #d6a756;
+    margin-top: 20px;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+section, article {
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+h2 {
+    color: #16324f;
+}
+
+h3 {
+    color: #395b74;
+}
+
+a {
+    color: #2f628c;
+}
+
+a:hover {
+    color: #b47d1f;
+}
+
+img {
+    border: 3px solid #d6a756;
+    padding: 4px;
+    background-color: #ffffff;
+}
+
+figcaption {
+    color: #5d666d;
+    font-style: italic;
+}
+
+.voltar-topo {
+    background-color: #16324f;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 12px;
+    border: 2px solid #16324f;
+}
+
+.voltar-topo:hover {
+    background-color: #d6a756;
+    color: #16324f;
+    border-color: #d6a756;
+}
+
+footer {
+    background-color: #16324f;
+    color: #ffffff;
+    text-align: center;
+    padding: 12px;
+    margin-top: 30px;
+}
